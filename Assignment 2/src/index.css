@@ -4,14 +4,14 @@
   box-sizing: border-box;
 }
 
-/* Body styles */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
   color: #333;
 }
 
-/* App container styles */
+
 .app {
   text-align: center;
   padding: 20px;
@@ -22,7 +22,7 @@ body {
   margin-bottom: 20px;
 }
 
-/* Card List styles */
+
 .card-list {
   display: flex;
   justify-content: center;
@@ -31,7 +31,7 @@ body {
   margin-top: 20px;
 }
 
-/* Card styles */
+
 .card {
   background-color: white;
   border-radius: 10px;
