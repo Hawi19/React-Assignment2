@@ -12,6 +12,8 @@ function CardList({data}) {
           <Card
             key={index}
             image={card.image}
+
+
             title={card.title}
             description={card.description}
           />
